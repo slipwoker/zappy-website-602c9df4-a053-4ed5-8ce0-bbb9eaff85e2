@@ -40,7 +40,9 @@ Information about WCAG compliance and accessibility features.
 
 ## How to Contact Us
 
-- (No contact details configured yet.)
+- Phone: 0537530310
+- Phone (tel): tel:0537530310
+- Address: קדושת לוי, 10, ביתר, Israel, Israel
 
 ### Contact form
 - URL: https://example.com/contact
