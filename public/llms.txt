@@ -7,33 +7,33 @@
 ## Pages
 
 ### בית
-https://example.com
+https://ehrlich-tivuch-nechasim.zappy5.app
 ארליך תיווך נכסים מביאה לכם את נכסי היוקרה המובחרים בישראל. השקעות חכמות, מכירה מקצועית ושירות פרמיום שפותח דלתות להזדמנויות נדל&quot;ן בלעדיות.
 
 ### נכסים
-https://example.com/properties
+https://ehrlich-tivuch-nechasim.zappy5.app/properties
 מבחר נכסי יוקרה למכירה בישראל — דירות פנטהאוז, וילות ונכסים ייחודיים. כל נכס נבחר בקפידה עבור משקיעים ורוכשים המחפשים את הטוב ביותר. מצאו את הנכס המושלם עוד היום.
 
 ### אודות
-https://example.com/about
+https://ehrlich-tivuch-nechasim.zappy5.app/about
 ארליך תיווך נכסים נולדה מתוך חזון לשלב חדשנות טכנולוגית עם נדל&quot;ן יוקרה. הכירו את הצוות המקצועי שמוביל השקעות מנצחות ומלווה לקוחות מובחרים לאורך כל הדרך.
 
 ### צור קשר
-https://example.com/contact
+https://ehrlich-tivuch-nechasim.zappy5.app/contact
 רוצים לרכוש, למכור או להשקיע בנכסי יוקרה? צוות ארליך תיווך נכסים זמין עבורכם לייעוץ אישי ומקצועי. פנו אלינו היום ונפתח יחד את הדלת להזדמנות הנדל&quot;ן הבאה שלכם.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://ehrlich-tivuch-nechasim.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://ehrlich-tivuch-nechasim.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://ehrlich-tivuch-nechasim.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -45,8 +45,8 @@ Information about WCAG compliance and accessibility features.
 - Address: קדושת לוי, 10, ביתר, Israel, Israel
 
 ### Contact form
-- URL: https://example.com/contact
-- Endpoint: https://example.com/api/email/contact-form
+- URL: https://ehrlich-tivuch-nechasim.zappy5.app/contact
+- Endpoint: https://ehrlich-tivuch-nechasim.zappy5.app/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -76,6 +76,6 @@ Arlich Property Brokerage is a premium luxury real estate brand positioned at th
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://example.com/sitemap.xml
-- Robots: https://example.com/robots.txt
-- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Sitemap (XML): https://ehrlich-tivuch-nechasim.zappy5.app/sitemap.xml
+- Robots: https://ehrlich-tivuch-nechasim.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://ehrlich-tivuch-nechasim.zappy5.app/llms-full.txt

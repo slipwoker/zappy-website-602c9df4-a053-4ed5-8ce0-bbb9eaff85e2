@@ -2,13 +2,13 @@
 
 Arlich Property Brokerage is a premium luxury real estate brand positioned at the intersection of high-tech innovation and upscale property dealings. The brand exudes trustworthiness, professionalism, and exclusivity, targeting serious buyers, sellers, and investors seeking luxury properties. The visual identity is bold and futuristic — dark backgrounds with glowing gradients in blue, purple, teal, and gold, creating a cinematic, high-end atmosphere reminiscent of a top-tier tech-real estate hybrid. The brand story centers on 'opening doors' — a metaphor reinforced by a colorful key as the central logo motif.
 
-Source: https://example.com
+Source: https://ehrlich-tivuch-nechasim.zappy5.app
 
 ---
 
 ## השקעות — ארליך תיווך נכסים
 
-URL: https://example.com
+URL: https://ehrlich-tivuch-nechasim.zappy5.app
 Description: ארליך תיווך נכסים מביאה לכם את נכסי היוקרה המובחרים בישראל. השקעות חכמות, מכירה מקצועית ושירות פרמיום שפותח דלתות להזדמנויות נדל&quot;ן בלעדיות.
 
 השקעות — ארליך תיווך נכסים
@@ -655,7 +655,7 @@ Description: ארליך תיווך נכסים מביאה לכם את נכסי ה
 
 ## גלו נכסי יוקרה בלעדיים למכירה — ארליך תיווך נכסים
 
-URL: https://example.com/properties
+URL: https://ehrlich-tivuch-nechasim.zappy5.app/properties
 Description: מבחר נכסי יוקרה למכירה בישראל — דירות פנטהאוז, וילות ונכסים ייחודיים. כל נכס נבחר בקפידה עבור משקיעים ורוכשים המחפשים את הטוב ביותר. מצאו את הנכס המושלם עוד היום.
 
 גלו נכסי יוקרה בלעדיים למכירה — ארליך תיווך נכסים
@@ -1214,7 +1214,7 @@ Description: מבחר נכסי יוקרה למכירה בישראל — דירו
 
 ## הסיפור מאחורי המפתח שפותח הכל — ארליך תיווך נכסים
 
-URL: https://example.com/about
+URL: https://ehrlich-tivuch-nechasim.zappy5.app/about
 Description: ארליך תיווך נכסים נולדה מתוך חזון לשלב חדשנות טכנולוגית עם נדל&quot;ן יוקרה. הכירו את הצוות המקצועי שמוביל השקעות מנצחות ומלווה לקוחות מובחרים לאורך כל הדרך.
 
 הסיפור מאחורי המפתח שפותח הכל — ארליך תיווך נכסים
@@ -1699,7 +1699,7 @@ Description: ארליך תיווך נכסים נולדה מתוך חזון לש�
 
 ## מוכנים לצעד הבא? דברו איתנו עכשיו — ארליך תיווך נכסים
 
-URL: https://example.com/contact
+URL: https://ehrlich-tivuch-nechasim.zappy5.app/contact
 Description: רוצים לרכוש, למכור או להשקיע בנכסי יוקרה? צוות ארליך תיווך נכסים זמין עבורכם לייעוץ אישי ומקצועי. פנו אלינו היום ונפתח יחד את הדלת להזדמנות הנדל&quot;ן הבאה שלכם.
 
 מוכנים לצעד הבא? דברו איתנו עכשיו — ארליך תיווך נכסים
@@ -2171,7 +2171,7 @@ Description: רוצים לרכוש, למכור או להשקיע בנכסי יו
 
 ## מדיניות פרטיות
 
-URL: https://example.com/privacy
+URL: https://ehrlich-tivuch-nechasim.zappy5.app/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -2440,7 +2440,7 @@ Description: מדיניות הפרטיות שלנו - כיצד אנו אוספי
 
 ## הצהרת נגישות
 
-URL: https://example.com/accessibility
+URL: https://ehrlich-tivuch-nechasim.zappy5.app/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -2718,7 +2718,7 @@ Description: הצהרת הנגישות שלנו - מחויבותנו לנגיש�
 
 ## תנאי שימוש
 
-URL: https://example.com/terms
+URL: https://ehrlich-tivuch-nechasim.zappy5.app/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
